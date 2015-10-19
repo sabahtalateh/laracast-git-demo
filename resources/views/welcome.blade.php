@@ -39,10 +39,7 @@
 <div class="container">
     <div class="content">
         <div class="title">
-
             This is Laravel 5
-
-
         </div>
     </div>
 </div>
